@@ -1,9 +1,70 @@
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=alibahrampour&theme=aurora&label=ali+bahrampour&mode=light" /><img src="https://www.gitskins.com/api/section/wordmark?username=alibahrampour&theme=aurora&label=ali+bahrampour" width="100%" alt="ali bahrampour" /></picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=alibahrampour&theme=aurora&mode=light" /> <img src="https://www.gitskins.com/api/section/hero?username=alibahrampour&theme=aurora&mode=dark" width="100%" alt="ali bahrampour — profile" /> </picture> </p> <p align="center"><a href="https://github.com/alibahrampour">GitHub</a> &nbsp;·&nbsp; <a href="https://ali-bahrampour.ir/">Website</a></p> <p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=alibahrampour&theme=aurora&items=HTML%3A%3A5+public+repositories%7Cdjango_precommit%3A%3AThis+repository+contains+a+Django+project+equi%7CImpact%3A%3A16+stars+%C2%B7+7+active+days&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=alibahrampour&theme=aurora&items=HTML%3A%3A5+public+repositories%7Cdjango_precommit%3A%3AThis+repository+contains+a+Django+project+equi%7CImpact%3A%3A16+stars+%C2%B7+7+active+days" width="100%" alt="Highlights" /></picture> </p>
-The year, so far
-<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=alibahrampour&theme=aurora&style=jet&mode=light" /> <img src="https://www.gitskins.com/api/section/heatmap?username=alibahrampour&theme=aurora&style=jet&mode=dark" width="100%" alt="42 contributions in the last year" /> </picture> </p>
-Signal
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=alibahrampour&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=alibahrampour&theme=aurora" width="100%" alt="16 stars across 5 repositories" /></picture> </p> <p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=alibahrampour&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=alibahrampour&theme=aurora" width="100%" alt="Language stack" /></picture> </p>
-Work
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=alibahrampour&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=alibahrampour&theme=aurora" width="100%" alt="Pinned projects" /></picture> </p>
-Profile scan
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=alibahrampour&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=alibahrampour&theme=aurora" width="100%" alt="ASCII profile scan" /></picture> </p> <hr /> <p align="center"> <sub>ali bahrampour · every panel is a single <code>&lt;img&gt;</code> of live GitHub data · built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub> </p>
+# Hi, I'm Ali Bahrampour 👋
+
+Software QA Engineer | Test Automation Engineer
+
+Passionate about building reliable test automation frameworks and improving software quality through automation, API testing, and CI/CD practices.
+
+## About Me
+
+- 8+ years of experience in Software Testing
+- Currently working as Software QA Engineer
+- Specialized in Test Automation with Playwright and Selenium
+- Experience in API Testing and SQL
+- Familiar with CI/CD and GitHub Actions
+- Interested in QA Automation, Python, and Software Quality
+
+## Tech Stack
+
+### Testing
+- Playwright
+- Selenium
+- Pytest
+- Manual Testing
+- API Testing
+- Test Planning
+- BDD
+
+### Programming
+- Python
+- JavaScript
+- SQL
+
+### Web
+- HTML
+- CSS
+- WordPress
+- Django
+- Django REST Framework
+
+### Tools
+- Git
+- GitHub
+- MySQL
+
+## Featured Projects
+
+### Playwright Automation Framework
+Professional UI automation framework using:
+- Python
+- Playwright
+- Pytest
+- GitHub Actions
+
+### API Testing Framework
+API automation project with:
+- Requests
+- Pytest
+- Schema Validation
+
+### Performance Testing
+Performance testing using Locust
+
+## Contact
+
+📧 alibahrampour.76@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/alibahrampour
+
+🌐 Website:
+https://ali-bahrampour.ir
