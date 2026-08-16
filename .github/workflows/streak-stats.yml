@@ -1,4 +1,3 @@
-```yaml
 name: Update Streak Stats
 
 on:
@@ -45,4 +44,3 @@ jobs:
           git diff --cached --quiet || git commit -m "Update streak stats"
 
           git push
-```
